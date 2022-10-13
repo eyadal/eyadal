@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **getting my dream body and become a better developer.**
 
-- 🌱 I’m currently learning **.Net and Azure**
+- 🌱 I’m currently learning ** React.js
 
 - 👯 I’m looking to collaborate on **A Big Tech Company**
 
